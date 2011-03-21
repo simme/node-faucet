@@ -1,0 +1,10 @@
+{ "name"        : "Faucet"
+, "version"     : "0.0.1-alpha"
+, "author"      : "Simon Ljungberg <hi@iamsim.me> (http://iamsim.me/)"
+, "description" : "Wrapper for VPTweetStream"
+, "main"        : "./lib/faucet.js"
+, "keywords"    : ["twitter", "stream"]
+, "dependencies":
+  { "vptweetstream": "https://github.com/voxpelli/node-vptweestream/tarball/master"
+  , "socket.io": ""
+  } }

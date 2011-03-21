@@ -1,0 +1,8 @@
+{ "streams":
+  { "test-one":
+    { "username": "styrisen"
+    , "password": "Greken71564"
+    , "stream": "sample"
+    }
+  }
+, "default": "test-one" }
